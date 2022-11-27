@@ -1,0 +1,85 @@
+body {
+  font-family: "Roboto Slab", serif;
+  margin: 0;
+  width: auto;
+  background: rgb(255, 254, 254);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 254, 254, 1) 0%,
+    rgba(217, 199, 142, 1) 52%,
+    rgba(194, 178, 128, 1) 100%
+  );
+  text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+img.logo {
+  display: block;
+  width: auto;
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 40px;
+}
+
+.table-item {
+  color: white;
+  font-size: 24px;
+}
+
+.wrapper {
+  margin-left: 700px;
+  margin-bottom: 40px;
+}
+
+.ofert {
+  margin-bottom: 70px;
+}
+
+p {
+  color: white;
+  width: 900px;
+  font-size: 24px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  background: #6f4e37;
+}
+
+li {
+  text-decoration: none;
+  font-style: normal;
+  color: white;
+}
+
+.address-footer {
+  text-decoration: none;
+  color: white;
+}
+
+ul {
+  list-style: none;
+}
+
+.p-footer {
+  text-align: left;
+}
+
+.information {
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.instagram {
+  font-size: 18px;
+}
